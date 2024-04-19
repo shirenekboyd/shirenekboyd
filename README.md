@@ -12,6 +12,14 @@
 [<img align="left" alt="Blog Icon" width="30px" src="/blog-svgrepo-com.svg" />](https://shireneboyd.hashnode.dev/)
 [<img align="left" alt="Email Icon" width="30px" src="/email-part-2-svgrepo-com.svg" />](mailto:shirenekboyd@gmail.com)
 
+<br />
+<br />
+
+## 🏆 My Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirenekboyd)](https://github.com/shirenekboyd/github-readme-stats)
+
+
+
 
 <!--
 **shirenekboyd/shirenekboyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
