@@ -10,6 +10,7 @@
 [<img align="left" alt="LinkedIn Icon" width="30px" src="/linkedin-svgrepo-com.svg" />](https://www.linkedin.com/in/shirene-boyd/)
 [<img align="left" alt="Personal Website Icon" width="30px" src="/website-2-svgrepo-com.svg" />](https://shirenekboyd.netlify.app/)
 [<img align="left" alt="Blog Icon" width="30px" src="/blog-svgrepo-com.svg" />](https://shireneboyd.hashnode.dev/)
+[<img align="left" alt="Email Icon" width="30px" src="/blog-svgrepo-com.svg" />](https://shireneboyd.hashnode.dev/)
 
 
 <!--
