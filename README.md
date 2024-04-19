@@ -1,10 +1,14 @@
 ## Hi there, I'm Shirene 👋
 
-### I'm a Wife, Mother, and Developer!
-- 🔭 I’m currently working on building a Fictional University website as a capstone project for a course I'm taking in hopes of being proficient in PHP and utilizing the power of WordPress to potentially become a freelance developer.
-- 🌱 I’m currently learning the steps to build WordPress websites using custom themes and plugins and documenting my journey on my [blog](https://shireneboyd.hashnode.dev/discovering-wordpress-my-learning-journey). I'm also continually honing my Python and Django skills and knowledge since my previous company's platform was built using Django.
-- 👯 I’m looking to collaborate on any project, it would be amazing to find another dev that wants to be on this WordPress journey with me.
-- ⚡ Fun fact: I love being in nature and one of my favorite places to visit is Yellowstone National Park.
+👩‍💻 About Me: I’m a dedicated Developer, loving Wife, and proud Mother! My journey in tech spans several programming languages, with recent focuses on Python and Django, complemented by a growing expertise in PHP and WordPress.
+
+🔭 Current Projects: I'm currently engaged in building a Fictional University website as a capstone project. This initiative is part of my transition toward becoming a proficient PHP developer and potentially exploring freelance opportunities with WordPress.
+
+🌱 I’m Learning: I'm actively learning how to craft engaging WordPress websites using custom themes and plugins. Alongside this, I document my learning process on my blog and continuously sharpen my Python and Django skills.
+
+👯 Collaboration: I’m on the lookout to partner with fellow developers who are passionate about WordPress. If you're embarking on a similar path, let’s connect and explore how we can collaborate!
+
+⚡ Fun Fact: I’m an avid nature enthusiast—Yellowstone National Park is one of my favorite retreats!
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn Icon" width="30px" src="/linkedin-svgrepo-com.svg" />](https://www.linkedin.com/in/shirene-boyd/)
