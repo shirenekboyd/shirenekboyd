@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love being in nature and one of my favorite places to visit is Yellowstone National Park.
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg#gh-dark-mode-only" />](https://www.linkedin.com/in/shirene-boyd/)
+[<img align="left" alt="LinkedIn icon" width="22px" src="/linkedin-svgrepo-com.svg" />](https://www.linkedin.com/in/shirene-boyd/)
 
 <!--
 **shirenekboyd/shirenekboyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
