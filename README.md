@@ -1,6 +1,6 @@
-### Hi there, I'm Shirene 👋
+## Hi there, I'm Shirene 👋
 
-## I'm a Wife, Mother, and Developer!
+### I'm a Wife, Mother, and Developer!
 - 🔭 I’m currently working on building a Fictional University website as a capstone project for a course I'm taking in hopes of being proficient in PHP and utilizing the power of WordPress to potentially become a freelance developer.
 - 🌱 I’m currently learning the steps to build WordPress websites using custom themes and plugins and documenting my journey on my [blog](https://shireneboyd.hashnode.dev/discovering-wordpress-my-learning-journey). I'm also continually honing my Python and Django skills and knowledge since my previous company's platform was built using Django.
 - 👯 I’m looking to collaborate on any project, it would be amazing to find another dev that wants to be on this WordPress journey with me.
@@ -9,6 +9,8 @@
 ### Connect with me:
 [<img align="left" alt="LinkedIn Icon" width="30px" src="/linkedin-svgrepo-com.svg" />](https://www.linkedin.com/in/shirene-boyd/)
 [<img align="left" alt="Personal Website Icon" width="30px" src="/website-2-svgrepo-com.svg" />](https://shirenekboyd.netlify.app/)
+[<img align="left" alt="Blog Icon" width="30px" src="/website-2-svgrepo-com.svg" />](https://shireneboyd.hashnode.dev/)
+
 
 <!--
 **shirenekboyd/shirenekboyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
