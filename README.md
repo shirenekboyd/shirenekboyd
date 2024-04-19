@@ -8,7 +8,7 @@
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn Icon" width="30px" src="/linkedin-svgrepo-com.svg" />](https://www.linkedin.com/in/shirene-boyd/)
-[<img align="left" alt="Personal Website Icon" width="30px" src="/linkedin-svgrepo-com.svg" />](https://www.linkedin.com/in/shirene-boyd/)
+[<img align="left" alt="Personal Website Icon" width="30px" src="/website-2-svgrepo-com.svg" />](https://www.linkedin.com/in/shirene-boyd/)
 
 <!--
 **shirenekboyd/shirenekboyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
